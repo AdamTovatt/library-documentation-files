@@ -1,0 +1,12 @@
+EasyReasy: https://raw.githubusercontent.com/AdamTovatt/easy-reasy/refs/heads/master/EasyReasy/README.md
+EasyReasy.EnvironmentVariables: https://raw.githubusercontent.com/AdamTovatt/easy-reasy/refs/heads/master/EasyReasy.EnvironmentVariables/README.md
+EasyReasy.Auth: https://raw.githubusercontent.com/AdamTovatt/easy-reasy/refs/heads/master/EasyReasy.Auth/README.md
+EasyReasy.ByteShelfProvider: https://raw.githubusercontent.com/AdamTovatt/easy-reasy/refs/heads/master/EasyReasy.ByteShelfProvider/README.md
+EasyReasy.Ollama.Common: https://raw.githubusercontent.com/AdamTovatt/easy-reasy-ollama/refs/heads/master/EasyReasy.Ollama.Common/README.md
+EasyReasy.Ollama.Client: https://raw.githubusercontent.com/AdamTovatt/easy-reasy-ollama/refs/heads/master/EasyReasy.Ollama.Client/README.md
+ByteShelfClient: https://raw.githubusercontent.com/AdamTovatt/byte-shelf/refs/heads/master/ByteShelfClient/README.md
+ByteShelfCommon: https://raw.githubusercontent.com/AdamTovatt/byte-shelf/refs/heads/master/ByteShelfCommon/README.md
+PgDump: https://raw.githubusercontent.com/AdamTovatt/pg-dump/refs/heads/master/readme.md
+SharpCutSvg: https://raw.githubusercontent.com/AdamTovatt/sharp-cut/refs/heads/master/readme.md
+WindscribeNet: https://raw.githubusercontent.com/AdamTovatt/windscribe-net/refs/heads/master/readme.md
+SakurWebApiUtilities: https://raw.githubusercontent.com/AdamTovatt/WebApiUtilities/refs/heads/master/README.md
